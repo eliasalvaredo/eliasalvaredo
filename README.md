@@ -1,4 +1,4 @@
-## Hi, I'm Elías 👋
+## Hi, I'm Elías
  
 **Data scientist** with a background in Telecommunications and Electronics Engineering. I build end-to-end pipelines for **biomedical sensor data**: from the hardware that records the signal to the machine learning models that interpret it.
  
